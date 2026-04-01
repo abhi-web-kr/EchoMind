@@ -6,6 +6,8 @@ A modern, full-stack blog platform built with the MERN stack. EchoMind allows us
 [![Node](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js)](https://expressjs.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?logo=mongodb)](https://www.mongodb.com/atlas)
 
+![EchoMind Home](./client/public/home-img.png)
+
 ## 📚 What I Learned In This Project
 
 - Building and connecting a complete MERN application from frontend to backend APIs.
