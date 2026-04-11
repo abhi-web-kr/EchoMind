@@ -37,7 +37,6 @@ app.get("/", (req, res) => {
     res.send("server is running....");
 });
 
-// Health check endpoint
 app.get("/health", (req, res) => {
     res.status(200).json({ 
         status: "ok", 
