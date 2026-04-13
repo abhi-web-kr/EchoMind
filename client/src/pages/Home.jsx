@@ -179,7 +179,7 @@ const Home = () => {
                 </div>
 
                 {/* Blog Grid */}
-                {!loading ? (
+                {loading ? (
                     <div className="flex justify-center py-20">
                         <Loader size="large" />
                     </div>
